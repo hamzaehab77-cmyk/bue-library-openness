@@ -1,0 +1,17 @@
+MAIN WALKING ROUTES (drawn as lines, both scans): (1) the east-west corridor between the south row of D and area C, towards the east stairs - the busiest route on the floor; (2) the north corridor along the rooms, in front of the first rows of D and B; (3) the north-south link between areas A/E and D, from the library entrance (main door at the north-east corner of A) to E, the toilets and the information desk; (4) loops around the tables of A and E by students looking for a seat.
+
+Scan 1 east: "People in this room are working with clay or something related to dentistry, then moved to the bathroom to wash their hands" (enclosed room north of B; not part of the study area).
+
+Scan 1 east: "This group got up and a new group sat in their place" (D-1/2/7/8, all talking).
+
+Scan 1 east: "All tables with people are together" (people sitting at a table are one group).
+
+Scan 1 west: a student walked in, dropped her belongings, went to the toilet, came back and kept walking around; asked, she said she was looking for a table near a charger.
+
+Scan 2 east: D-3 got up at 12:22; a student who sat from 11:00 got up at 12:10; "Drawing and modelling" in the room north of B; "took a pic"; a student got up to ask others for help with internet issues; "More people are leaving now" (end of scan 2).
+
+Scan 2 west: "People who left belongings came back" (E-33 to E-42); "the girl sat but kept talking" (E-43); "talking while looking at laptop / studying" (E-35 to E-44); people entering by the main door; students asking staff at the information desk to book a study room.
+
+Pen colours: blue = male, black = female, red = cannot tell (key corrected on the sheets); the observers swapped blue and black for the walking lines only.
+
+Gender (user, 24 Nov 2026): the observers did not use "cannot tell"; marks that were unclear on these sheets have their gender estimated from the female/male ratio recorded in the other whole-floor scans (column gender_estimated = 1).

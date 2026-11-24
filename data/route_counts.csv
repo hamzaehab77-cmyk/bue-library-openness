@@ -1,0 +1,56 @@
+date,scan,gate,male,female,arrows_male,arrows_female,note
+2026-11-19,1,E1,5.0,5.0,,E1,
+2026-11-19,2,E1,7.0,2.0,,E1,
+2026-11-24,1,E1,4.0,3.0,W8 E1,W4 E1,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-24,2,E1,3.0,4.0,W4,W6,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-24,3,E1,4.0,4.0,,E1 W1,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-19,1,E2,2.0,10.0,,,
+2026-11-19,2,E2,9.0,1.0,W2,,
+2026-11-24,1,E2,6.0,7.0,E4 W4,E2 W4,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-24,2,E2,8.0,9.0,E4 W4,E4 W4,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-24,3,E2,10.0,7.0,E3 W6,E3 W2,"includes a line labelled ""3 people"" (male, counted as 3); direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-19,1,E3,1.0,4.0,,S1,
+2026-11-19,2,E3,6.0,2.0,,,
+2026-11-24,1,E3,1.0,1.0,S1,,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-24,2,E3,2.0,1.0,S2,,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-24,3,E3,2.0,2.0,S2,S1,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-19,1,E4,2.0,5.0,,N1,
+2026-11-19,2,E4,5.0,0.0,S3,,
+2026-11-24,1,E4,8.0,5.0,N1,,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-24,2,E4,4.0,5.0,S1,N2 S1,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-24,3,E4,3.0,6.0,N1 S1,S4,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-19,1,E5,6.0,6.0,E3,E2,
+2026-11-19,2,E5,6.0,4.0,E4,E1,
+2026-11-24,1,E5,8.0,8.0,E3 W2,E2 W2,"direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-24,2,E5,9.0,7.0,E2 W5,E5 W3,"includes the ""group of 3"" (male, counted as 3); direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-24,3,E5,16.0,14.0,E4,E5 W1,"includes groups labelled 5 people and 7 people (male) and 5 people and 3 people (female); people leaving at about 13:55; direction: every arrowhead in this stretch of corridor (one arrow per line, observer)"
+2026-11-19,1,W1a,0.0,0.0,,,lines ending at the north door = leaving (observer); split between the two approaches with the sheet scan 5 ratio (50/50); one line is staff moving chairs outside (not counted)
+2026-11-19,2,W1a,0.0,2.0,,N,lines ending at the north door = leaving (observer); split between the two approaches with the sheet scan 5 ratio (50/50)
+2026-11-24,1,W1a,2.5,0.5,N,N,lines ending at the north door = leaving (observer); split between the two approaches with the sheet scan 5 ratio (50/50); one red line is a staff member (not counted)
+2026-11-24,2,W1a,3.5,3.0,N,N,"lines ending at the north door = leaving (observer); split between the two approaches with the sheet scan 5 ratio (50/50); ""people exiting the library"""
+2026-11-24,3,W1a,2.0,4.0,N,N,sheet scan 5: the two approaches drawn separately (observer); lines ending at the door = leaving
+2026-11-19,1,W1b,0.0,0.0,,,lines ending at the north door = leaving (observer); split between the two approaches with the sheet scan 5 ratio (50/50); one line is staff moving chairs outside (not counted)
+2026-11-19,2,W1b,0.0,2.0,,W,lines ending at the north door = leaving (observer); split between the two approaches with the sheet scan 5 ratio (50/50)
+2026-11-24,1,W1b,2.5,0.5,W,W,lines ending at the north door = leaving (observer); split between the two approaches with the sheet scan 5 ratio (50/50); one red line is a staff member (not counted)
+2026-11-24,2,W1b,3.5,3.0,W,W,"lines ending at the north door = leaving (observer); split between the two approaches with the sheet scan 5 ratio (50/50); ""people exiting the library"""
+2026-11-24,3,W1b,3.0,3.0,W,W,sheet scan 5: the two approaches drawn separately (observer); lines ending at the door = leaving
+2026-11-19,1,W2,1.0,9.0,,,"pen key for lines = circles (blue = male, black = female; observer)"
+2026-11-19,2,W2,4.0,6.0,E,E,"pen key for lines = circles (blue = male, black = female; observer)"
+2026-11-24,1,W2,2.0,2.0,,,
+2026-11-24,2,W2,4.0,5.0,E,E,
+2026-11-24,3,W2,3.0,8.0,E1,,
+2026-11-19,1,W3,0.0,8.0,,E3,"pen key for lines = circles (blue = male, black = female; observer)"
+2026-11-19,2,W3,3.0,6.0,,E4,"pen key for lines = circles (blue = male, black = female; observer)"
+2026-11-24,1,W3,10.0,3.0,,,
+2026-11-24,2,W3,6.0,6.0,,E2,
+2026-11-24,3,W3,4.0,10.0,,E3,people leaving at about 13:55
+2026-11-19,1,W4,0.0,3.0,,W,"pen key for lines = circles (blue = male, black = female; observer)"
+2026-11-19,2,W4,0.0,3.0,,W2,"pen key for lines = circles (blue = male, black = female; observer)"
+2026-11-24,1,W4,2.0,5.0,W1,W1,one red line is a staff member (not counted)
+2026-11-24,2,W4,2.0,7.0,,W1,
+2026-11-24,3,W4,1.0,7.0,,,
+2026-11-19,1,W5,1.0,8.0,,,"staff member line not counted; pen key for lines = circles (blue = male, black = female; observer)"
+2026-11-19,2,W5,2.0,4.0,,,"staff member line not counted; pen key for lines = circles (blue = male, black = female; observer)"
+2026-11-24,1,W5,7.0,1.0,,,staff going back and forth at the information desk not counted
+2026-11-24,2,W5,6.0,2.0,,,
+2026-11-24,3,W5,2.0,6.0,,,

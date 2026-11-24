@@ -1,0 +1,21 @@
+code,category,reason
+5EMSJ3,pilot,pilot row (grey in the sheet; task v1 and old key)
+F9NCEP,pilot,pilot row (grey in the sheet; task v1 and old key)
+4C349P,pilot,pilot row (grey in the sheet)
+HBBZEP,pilot,pilot row (grey in the sheet)
+WECVEP,ai,finished all 20 in 2.1 min with 20/20 correct - too fast to have read the passage
+GK27CT,ai,finished all 20 in 4.5 min with 20/20 correct - too fast to have read the passage
+6Q9QPF,ai,admitted using AI after question 12 (researcher note in the sheet)
+LYM9AL,ai,student said they used AI (reported by the researchers)
+6W9U53,ai,student said they used AI (reported by the researchers)
+J3TZL5,not_engaged,blank: no questions answered
+L5T7XH,not_engaged,"test entry (1 answer; open answer ""delte"")"
+8UZD7X,not_engaged,4 answered and 0 correct in 15 min; researchers observed no real attempt
+LEF3S5,not_engaged,got distracted and stopped working on the task (researchers observed)
+9JRXDU,not_engaged,clicked through all 20 in 2.6 min with 6/20 correct
+5GVYX5,not_engaged,"marked red in the sheet: 8 answered, 2 correct (chance level) in 15 min"
+KUGQRT,not_engaged,marked red in the sheet: all 20 answered in 7.4 min with 4/20 correct (below chance)
+RPMA2U,not_engaged,not yet red in the sheet: all 20 answered in 1.9 min with 4/20 correct (Rule B: too fast)
+GEHYKC,not_engaged,"marked red in the sheet by the researchers: 8 answered, 3 correct in 15 min (no real attempt)"
+7TNFSW,not_engaged,"marked red in the sheet by the researchers: 4 answered, 2 correct in 15 min (no real attempt)"
+NADJTS,not_engaged,5/20 correct (0.25 = guessing level) in 12.4 min

@@ -1,0 +1,67 @@
+scan,sheet,area,posture,activity,gender,staff,count,where,note
+1,2,B,stand,,M,0,1,"between the shelves of B, on the north-south walkway",
+1,2,B,sit_else,T,M,0,1,"south-east of B, on the floor or ledge by the shelves",
+1,2,C,sit_else,T,M,0,1,"north-east of C, by the top of the east stairs",
+1,2,D,stand,T,M,0,1,next to table D-25,
+1,2,C,stand,T,F,0,1,between tables C-3 and C-15,
+1,2,C,stand,T,M,0,1,east of table C-16,
+1,2,C,stand,T,M,0,1,at the staff desk by the east stairs,
+1,2,C,sit_other,O,F,1,1,"staff desk by the east stairs, south of C (""there is a staff desk here & she is always here for all maps"")",
+1,2,D,walk,,F,0,5,corridor south of D,"""5 girls"" walking together"
+2,2,D,stand,,F,0,1,"north of table D-3, with the presentation group",
+2,2,D,stand,P,F,0,1,"east edge of D, by the void",circled on the sheet
+2,2,D,stand,T,M,0,1,"east edge of D, by the void",
+2,2,D,stand,T,M,0,1,"east edge of D, by the void",clarified: 2 males standing talking + 1 female on the phone walking around
+2,2,D,stand,T,M,0,1,"corridor south of D, west of table D-25",
+2,2,D,sit_other,T,M,0,1,chair in the corridor north of table D-25,
+2,2,D,sit_else,P,F,0,1,single desk at the south-west corner of D,
+2,2,C,stand,,F,0,1,south of table C-11,"""She keeps walking around, leaves & comes back"""
+2,2,C,stand,P,F,0,1,south-east of table C-11,
+2,2,C,sit_other,O,F,1,1,"staff desk by the east stairs, south of C (""there is a staff desk here & she is always here for all maps"")",not drawn on this sheet; added from the observer's note
+2,2,C,walk,,M,0,3,corridor south of C,"""group of 3"" (clarified: 3 males)"
+3,2,D,stand,T,F,0,1,east of table D-16,
+3,2,D,stand,T,F,0,1,corridor south of D,
+3,2,D,stand,,F,0,1,corridor south of D,
+3,2,D,stand,,M,0,2,"corridor south of D, north of table D-25",
+3,2,C,stand,,F,0,1,north of table C-3,
+3,2,B,sit_else,T,M,0,3,"south-east corner of B, on the floor or ledge","""worker told them to not sit here & moved them at 1:50"""
+3,2,C,sit_else,T,M,0,1,"north-east of C, by the top of the east stairs",same group as above
+3,2,C,sit_other,O,F,1,1,"staff desk by the east stairs, south of C (""there is a staff desk here & she is always here for all maps"")",not drawn on this sheet; added from the observer's note
+3,2,D,walk,P,F,0,1,south of D,"""walking while talking on the phone"""
+3,2,C,walk,,M,0,5,towards the east stairs,"""5 people"" leaving"
+3,2,C,walk,,F,0,5,towards the east stairs,"""5 people"" leaving"
+3,2,C,walk,,F,0,3,towards the east stairs,"""3 people"" leaving"
+3,2,C,walk,,M,0,7,"corridor south of C, towards the east stairs","""7 people"" leaving"
+3,2,D,walk,,F,0,4,corridor south of D,"""4 people"""
+3,2,C,walk,,M,0,3,corridor between D and C,"""3 people"""
+1,1,A,stand,L,M,1,2,west bookshelves of A,"""two staff members arranging books"""
+1,1,A,walk,,F,1,1,"north of A, through the access door","""staff member went outside and then to toilet again"""
+1,1,A,walk,,M,1,1,all over the floor,"""staff member asking all over the library, someone has to fix a card"""
+1,1,E,walk,,F,1,1,between the handicapped toilet and the floor,"""staff member keeps going to the handicapped toilet and going back; she's moving all around the space"""
+1,1,A,sit_other,O,M,1,2,"information desk, south-east of A","""staff members keep going back and forth, sitting/standing"""
+1,1,A,stand,T,M,1,1,"information desk, south-east of A",staff member standing
+1,1,A,stand,T,F,0,1,"information desk, south-east of A","""asking for something from staff"""
+1,1,A,stand,,M,0,1,north of table A-21,
+1,1,A,stand,,M,0,1,south of table A-21,
+1,1,E,sit_other,,M,0,3,"south-west corner of E, chairs taken from other tables","""group of boys took chairs from other tables and sat"": new table arrangement"
+2,1,A,sit_else,T,M,0,9,on the floor between the bookshelves of A and by the west wall,"blue circles + 1 black (black = blue, male: observer); ""new observation: between most bookshelves people were sitting on ground talking & playing, sleeping, eating (no one was studying except for 2)""; letters not reliable, coded T"
+2,1,A,sit_else,T,F,0,8,on the floor between the bookshelves of A and by the west wall,red circles; coded T
+2,1,A,sit_else,S,F,0,2,on the floor between the bookshelves of A,"""two studying on ground"": two females studying together in a group (red S; the arrow points to the A shelves, not the toilets)"
+2,1,A,sit_else,O,F,0,1,"north-west corner, on the floor","""sleeping"""
+2,1,A,stand,,M,0,1,between the north bookshelves,
+2,1,A,stand,,M,0,2,by the main door,on the walking lines at the entrance
+2,1,A,stand,T,F,0,2,between tables A-3 and A-19,
+2,1,A,stand,,M,0,1,"information desk, south-east of A",blue triangle (clarified)
+2,1,A,stand,T,F,0,1,"information desk, south-east of A","""asking something"""
+2,1,E,stand,,M,0,1,south of table E-23,
+2,1,E,stand,,F,0,1,east of table E-38,
+2,1,A,walk,,U,0,0,whole west half,"""there were a lot of people walking not marked here"""
+3,1,A,sit_else,T,M,0,5,on the floor between the bookshelves of A and by the west wall,blue circles
+3,1,A,sit_else,P,M,0,1,on the floor between the bookshelves of A,blue circle
+3,1,A,sit_else,T,F,0,8,on the floor between the bookshelves of A and by the west wall,"red circles, incl. a group of 5 by the toilets; ""staff made all people on ground leave""; ""staff member interrupted to tell people to get up"""
+3,1,A,sit_else,P,F,0,2,on the floor between the north bookshelves of A,red circles
+3,1,A,sit_else,S,F,0,2,on the floor by the west wall of A,red circles
+3,1,A,sit_else,O,F,0,2,"on the floor, north-west corner and west wall of A","""sleeping on floor"""
+3,1,A,stand,T,M,0,1,north of table A-5,
+3,1,A,stand,,F,0,2,north-east of A,
+3,1,E,sit_else,O,F,0,1,south of E,"""sleeping"" (clarified: female)"

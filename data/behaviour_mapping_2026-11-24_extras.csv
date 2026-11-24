@@ -1,0 +1,62 @@
+scan,table_first_seat,count,activity,gender,note
+1,D-1,1,T,F,extra chair north of table D-1/2/7/8 (big group)
+1,D-1,1,T,M,extra chair north of table D-1/2/7/8 (big group)
+1,D-13,1,S,M,extra chair below D-20
+1,B-11,2,S,M,"two extra chairs on the west end of table B-11 (""W"" = studying while talking)"
+2,D-3,1,S,F,extra chair north of table D-3 (presentation group)
+2,D-3,1,S,M,extra chair north of table D-3 (presentation group)
+2,D-13,1,T,M,extra chair north of table D-13
+2,D-17,2,T,M,two extra chairs east of table D-17/18/23/24
+2,D-25,1,S,M,extra chair west of table D-25
+2,D-25,1,S,F,extra chair south of table D-25
+2,B-7,1,T,M,extra chair west of table B-7
+2,C-3,1,S,F,extra chair north of table C-3
+2,B-11,1,,,"""EB"": extra chair with belongings, west of table B-11"
+3,D-3,1,P,F,extra chair north of table D-3
+3,D-3,1,T,F,extra chair north of table D-3
+3,D-13,1,T,M,extra chair north of table D-13
+3,D-17,2,T,M,two extra chairs east and south of table D-17
+3,B-3,1,P,M,extra chair between tables B-3 and B-5
+3,B-7,1,,,"""Ex"": empty extra chair west of table B-7"
+3,D-25,1,,,"""EX"": empty extra chair south of table D-25"
+3,C-3,1,S,F,extra chair north of table C-3
+3,C-5,1,S,F,extra chair north of table C-5
+3,C-13,3,T,F,"three extra chairs around table C-13 (north T F, west T F, south P M)"
+1,A-1,2,,,"two empty extra chairs north of table A-1 (""grabbed chairs from other tables""; observer: no one sitting)"
+1,A-3,1,T,F,extra chair north of table A-3
+1,A-17,1,P,F,"extra chair west of A-25: ""girl sat on her phone then left"""
+1,A-21,1,T,M,extra chair south of table A-21
+1,A-23,2,T,F,moved chairs west of table A-23: two females (red) who sat here after the first person (male) left
+1,A-23,1,S,F,extra chair south of A-32 (crossed out on the sheet)
+1,E-19,3,T,M,"three extra chairs around table E-19 (two north T, one south P), all male"
+1,E-21,1,P,M,extra chair south of table E-21
+1,E-33,1,T,F,extra chair north of table E-33 (group of three)
+1,E-33,1,T,M,extra chair south-west of table E-33 (group of three)
+1,E-35,1,T,F,"extra chair south of table E-35: ""girl keeps moving around the table"""
+2,A-3,1,T,M,extra chair north of table A-3
+2,A-5,1,P,F,extra chair north of table A-5
+2,A-17,1,T,F,extra chair north of table A-17
+2,A-19,1,T,F,extra chair north of table A-19
+2,A-21,1,T,F,extra chair south of table A-21
+2,A-23,1,P,F,extra chair south of table A-23
+2,E-19,2,S,F,extra chairs around table E-19
+2,E-19,1,P,F,"extra chair at table E-19, next to the empty one"
+2,E-19,1,,,"""ex"" in the circle: empty extra chair at table E-19"
+2,E-21,2,S,M,"extra chairs north of table E-21 (""studying together"", later ""they were all talking"")"
+2,E-23,1,P,M,extra chair south of table E-23
+3,A-1,3,T,F,"""all talking together"": three extra chairs at table A-1"
+3,A-3,1,P,F,extra chair north of table A-3
+3,A-3,1,T,M,extra chair south of table A-3
+3,A-3,1,T,F,extra chair south of table A-3
+3,A-3,1,T,F,extra chair south of table A-3
+3,A-5,1,T,F,extra chair north of table A-5
+3,A-5,1,T,M,extra chair north of table A-5
+3,A-21,1,T,M,extra chair south of table A-21
+3,A-23,2,T,F,extra chairs around table A-23 (red)
+3,A-23,2,,,"""ex"": two empty extra chairs around table A-23"
+3,A-23,1,U,M,"extra chair south of table A-23 (blue), letter unclear"
+3,E-5,1,P,M,extra chair north of table E-5
+3,E-17,2,,,"""ex"": two empty extra chairs north of table E-17; ""2 people left the table"""
+3,E-19,2,T,F,extra chairs west and south of table E-19
+3,E-23,1,S,F,extra chair at table E-23
+3,E-23,1,T,F,extra chair at table E-23

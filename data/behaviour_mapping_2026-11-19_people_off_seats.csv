@@ -1,0 +1,26 @@
+scan,sheet,area,posture,activity,gender,staff,count,where,note,gender_estimated
+1,2,B,stand,,F,0,2,between B-1 table and the bookshelves,,1
+1,2,D,stand,,F,0,1,"corridor south of D, next to the researchers",,1
+1,2,C,stand,,F,0,1,next to the east stairs,,1
+1,2,D,walk,,F,1,1,corridor south of D,"""Supervisor walking here""",1
+1,2,C,walk,,F,0,1,corridor towards the east stairs,"""Running?""",1
+1,1,A,stand,P,M,0,2,between the west bookshelves,"""People on the phone between the shelves""",1
+1,1,A,walk,,M,1,1,north of A,"""Staff moving chairs outside""",1
+1,1,A,stand,S,M,0,1,next to table A-19,standing while studying (unsure),1
+1,1,A,stand,,M,1,1,"east of A, near the shelves","""Staff member""",1
+1,1,E,walk,,F,0,1,from the door through E,"walked in, dropped her belongings, went to the toilet, came back, kept walking around to pick a seat: wanted a table near a charger",0
+1,2,C,sit_other,O,F,1,1,"staff desk by the east stairs, south of C","added from the 24 Nov note ""she is always here for all maps""",0
+2,2,D,sit_other,S,F,0,1,"corridor south of D, on a chair away from a table",,1
+2,2,D,sit_other,S,F,0,1,single desk and chair at the south-west corner of D (not in the plan),"""There is a chair and a desk here but singular""",1
+2,2,D,stand,T,F,0,1,next to the researchers' table D-25,,1
+2,2,B,stand,,M,0,2,next to table B-1,,0
+2,2,C,walk,,F,1,1,corridor south of C,"""Supervisor""",1
+2,1,A,stand,,F,0,1,next to table A-1,,1
+2,1,A,stand,,F,0,1,north of table A-5,,1
+2,1,A,stand,T,F,0,3,"south of A, at the information desk","""People asking for something from staff: they want to book a study room""; ""two girls walked to the info desk, then went back""",1
+2,1,A,stand,T,M,0,1,"south of A, at the information desk","""People asking for something from staff: they want to book a study room""; ""two girls walked to the info desk, then went back""",1
+2,1,A,sit_other,O,M,1,1,"information desk, south-east of A","""Staff member""",1
+2,1,A,stand,L,M,0,2,between the west bookshelves,"""Two people looking for books""; ""4 of them kept going back""",1
+2,1,E,stand,,M,0,2,next to tables E-17 and E-25,,1
+2,1,E,stand,T,F,0,1,next to table E-43,"""The girl sat but kept talking""",0
+2,2,C,sit_other,O,F,1,1,"staff desk by the east stairs, south of C","added from the 24 Nov note ""she is always here for all maps""",0
